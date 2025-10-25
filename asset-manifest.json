@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitzone-gym-landing/static/css/main.bda6dcd5.css",
+    "main.js": "/fitzone-gym-landing/static/js/main.d07b74db.js",
+    "static/js/453.3c7ebf22.chunk.js": "/fitzone-gym-landing/static/js/453.3c7ebf22.chunk.js",
+    "index.html": "/fitzone-gym-landing/index.html",
+    "main.bda6dcd5.css.map": "/fitzone-gym-landing/static/css/main.bda6dcd5.css.map",
+    "main.d07b74db.js.map": "/fitzone-gym-landing/static/js/main.d07b74db.js.map",
+    "453.3c7ebf22.chunk.js.map": "/fitzone-gym-landing/static/js/453.3c7ebf22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda6dcd5.css",
+    "static/js/main.d07b74db.js"
+  ]
+}
