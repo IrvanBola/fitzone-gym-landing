@@ -4,6 +4,9 @@
 
 A modern, responsive landing page for FitZone gym built with React and Tailwind CSS. Features a clean design, smooth animations, and mobile-first approach perfect for fitness businesses.
 
+## 🌐 Live Demo
+**[🚀 View Live Site](https://irvanbola.github.io/fitzone-gym-landing/)**
+
 ## 🌟 Features
 
 - **Responsive Design** - Optimized for all devices (desktop, tablet, mobile)
