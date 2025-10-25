@@ -32,35 +32,7 @@ A modern, responsive landing page for FitZone gym built with React and Tailwind 
 5. **Contact** - Contact form and business information
 6. **Footer** - Links, social media, and additional info
 
-## 🛠️ Installation & Setup
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/fitzone-gym-landing.git
-   cd fitzone-gym-landing
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Start development server**
-
-   ```bash
-   npm start
-   ```
-
-   - Open [http://localhost:3000](http://localhost:3000) to view in browser
-   - Page reloads automatically when you make changes
-
-4. **Build for production**
-   ```bash
-   npm run build
-   ```
-   - Creates optimized production build in `build` folder
 
 ## 🎨 Customization
 
@@ -78,40 +50,6 @@ Update content in component files:
 - `src/components/Services/Services.jsx` - Services
 - `src/components/Contact/Contact.jsx` - Contact info
 
-## 🔧 Firebase Setup
 
-1. Create Firebase project
-2. Update `src/firebaseConfig.js` with your credentials
-3. Enable desired services (Firestore, Auth, etc.)
-
-## 🌐 Deployment
-
-### Netlify
-
-- Build command: `npm run build`
-- Publish directory: `build`
-
-### Vercel
-
-- Auto-deploys from GitHub
-
-### Firebase Hosting
-
-```bash
-npm install -g firebase-tools
-firebase login
-firebase init hosting
-npm run build
-firebase deploy
-```
-
-## 📊 Performance Features
-
-- Lighthouse Score: 95+
-- Mobile-first responsive design
-- SEO optimized with meta tags
-- PWA ready with manifest
-
----
 
 ⭐ **Give this project a star if you found it helpful!** ⭐
